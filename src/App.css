@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.google_translate_element .skiptranslate {
+  background-color: red;
+  width: 100vw !important;
+}
+.skiptranslate .goog-te-gadget {
+  display: none !important;
+}
+svg {
+  user-select: none;
+}
+
+.tab.tab-active {
+  border-bottom: none !important;
+  color: #2563eb !important; /* Tailwind blue-600 */
+}

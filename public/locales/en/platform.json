@@ -1,0 +1,19 @@
+{
+  "title": "Trading Platform",
+  "content": "Simple and intuitive interface, excellent trading performance, meets the needs of more investors. Start trading with StratTrade today.",
+  "tradeTitle": "No need to download, trade online through your browser.",
+  "tradeList": [
+    {
+      "list": "No download required, trade online directly from your PC browser"
+    },
+    {
+      "list": "Regulated by industry authorities"
+    },
+    {
+      "list": "Provides powerful technical indicators"
+    },
+    {
+      "list": "Equipped with risk management tools such as stop-loss and negative balance protection to mitigate the potential risk of your trades"
+    }
+  ]
+}

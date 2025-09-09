@@ -1,0 +1,37 @@
+{
+  "forex": "Trading de devises étrangères",
+  "forexContennt": "Le trading de devises étrangères consiste à convertir une devise en une autre, et le marché des changes est le marché financier le plus échangé au monde. Le marché des changes compte un grand nombre de participants qui l'utilisent pour effectuer des paiements, se couvrir contre les risques de fluctuations monétaires ou réaliser un profit. Le trading Forex se déroule via un réseau de banques, d'institutions et de traders individuels à travers le monde, avec des fluctuations de prix 24 heures sur 24, 5 jours sur 7, offrant des opportunités de risque-rendement.",
+  "commodities": "Matières premières",
+  "commoditiesContent": "Les matières premières, telles que les métaux précieux et l'énergie, sont considérées comme une partie importante d'un investissement diversifié, car elles sont considérées comme résistantes à l'inflation et offrent la possibilité d'ajouter de la valeur à l'investissement. Parmi elles, l'or, l'argent et le pétrole sont des matières premières échangées en volumes importants, et leurs prix ouverts et transparents ainsi que leur grande liquidité ont été largement accueillis par les investisseurs. Les prix des matières premières fluctuent de manière significative en raison de facteurs tels que l'offre et la demande, les situations économiques et politiques, et les devises, offrant des opportunités de risque-rendement.",
+  "crypto": "Cryptomonnaies",
+  "cryptoContent": "Les cryptomonnaies sont une monnaie numérique créée à l'aide de code. Elles fonctionnent de manière autonome en dehors des systèmes bancaires et gouvernementaux traditionnels. Comme son nom l'indique, les cryptomonnaies utilisent le chiffrement pour sécuriser les transactions et permettre la création d'autres unités, le Bitcoin étant la cryptomonnaie originale et de loin la plus célèbre. Le Bitcoin a été créé par Satoshi Nakamoto et lancé en janvier 2009. À ce jour, il reste inconnu si le nom Satoshi Nakamoto fait référence à une personne ou à un groupe de personnes. Le Bitcoin est considéré comme la première cryptomonnaie décentralisée. Comme toutes les cryptomonnaies, il est contrôlé via une base de données de transactions blockchain servant de registre public distribué. À ce jour, plus de 1 000 cryptomonnaies sont échangées en ligne.",
+  "choose1": [
+    {
+      "title": "Plateforme simple et intuitive",
+      "content": "Intégration des devis, du trading, de la gestion des comptes, des informations, de la gestion des risques, des fonctions puissantes pour une meilleure expérience utilisateur"
+    },
+    {
+      "title": "Coûts de transaction compétitifs",
+      "content": "0 commissions de trading, spreads très compétitifs et transparents, SWAPs faibles, pour profiter d'un trading à faible coût !"
+    },
+    {
+      "title": "Conditions de trading à faible seuil",
+      "content": "La taille minimale de chaque transaction est aussi faible que 0,01 lot, et vous pouvez ouvrir une position avec une marge réduite."
+    }
+  ],
+  "choose2": [
+    {
+      "title": "Réglementé par une autorité",
+      "content": "Autorisé et réglementé par les autorités du secteur, tous les dépôts des clients sont conservés séparément pour protéger la sécurité des actifs des clients."
+    },
+    {
+      "title": "Protection contre le solde négatif",
+      "content": "Votre compte ne perdra jamais plus que son capital principal sous n'importe quelle condition de marché, et les soldes négatifs seront annulés en temps opportun pour améliorer vos capacités de gestion des risques."
+    },
+    {
+      "title": "Haut niveau de support en ligne",
+      "content": "Fournit un service client en ligne à réponse rapide, offrant un meilleur service grâce aux efforts incessants de l'équipe professionnelle."
+    }
+  ],
+  "whyChooseUs": "Pourquoi nous choisir?"
+}

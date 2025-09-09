@@ -1,0 +1,19 @@
+{
+  "title": "Plateforme de Trading",
+  "content": "Interface simple et intuitive, performances de trading excellentes, répond aux besoins d'un plus grand nombre d'investisseurs. Commencez à trader avec StratTrade dès aujourd'hui.",
+  "tradeTitle": "Pas besoin de télécharger, tradez en ligne directement via votre navigateur.",
+  "tradeList": [
+    {
+      "list": "Aucun téléchargement requis, tradez en ligne directement depuis le navigateur de votre PC"
+    },
+    {
+      "list": "Réglementé par les autorités de l'industrie"
+    },
+    {
+      "list": "Fournit des indicateurs techniques puissants"
+    },
+    {
+      "list": "Équipé d'outils de gestion des risques tels que le stop-loss et la protection contre les soldes négatifs pour atténuer le risque potentiel de vos trades"
+    }
+  ]
+}

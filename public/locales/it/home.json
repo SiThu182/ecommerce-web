@@ -1,0 +1,88 @@
+{
+  "bannerTitle": "Dati ",
+  "inside": "in",
+  "seconds": " pochi secondi",
+  "started": "Inizia",
+  "bannerContent": "Scopri la potenza del trading crypto senza interruzioni con approfondimenti in tempo reale e transazioni sicure. Inizia a costruire il tuo futuro oggi",
+  "introTitle": "Scambia Forex, Commodities, Indici, Azioni e altro",
+  "introContent": "Puoi esplorare i mercati finanziari più caldi del mondo. StratTrade offre 0 commissioni, spread estremamente vantaggiosi e configurazioni di leva flessibili.",
+  "friendlyTitle": "Transazioni più amichevoli",
+  "friendlyContent": [
+    "Interfaccia semplice e intuitiva per un facile utilizzo",
+    "Supporto per il trading a portata di mano",
+    "Strumenti di gestione del rischio come stop loss/trailing stop",
+    "Molteplici grafici tecnici e calendari finanziari, notizie in tempo reale",
+    "Miglioramento continuo per una migliore esperienza di trading"
+  ],
+  "tradeFreeTitle": "Fai trading liberamente ovunque e in qualsiasi momento",
+  "tradeFreeContent": "Supporto per il trading a portata di mano",
+  "trustedTitle": "Piattaforma internazionale affidabile",
+  "trustedContent": "Siamo impegnati a fornire un ambiente di trading sicuro e responsabile per i nostri clienti.",
+  "trustedInfoOne": [
+    {
+      "title": "Regolata da un'autorità competente",
+      "content": "Regolamentazione e autorizzazione da parte di autorità di settore, conquistando la fiducia dei clienti globali"
+    },
+    {
+      "title": "Protezione della sicurezza dei fondi",
+      "content": "I depositi dei clienti al dettaglio sono separati in conti fiduciari secondo necessità, in conformità con i requisiti normativi"
+    }
+  ],
+  "trustedInfoTwo": [
+    {
+      "title": "Protezione del saldo negativo",
+      "content": "Ti offriamo la protezione dal saldo negativo del conto, azzerando tempestivamente il saldo negativo, in modo che le tue perdite non superino l'importo investito. Trading sereno."
+    },
+    {
+      "title": "Servizio clienti 24 ore su 24, 5 giorni su 7",
+      "content": "Un team di assistenza clienti sincero e professionale, supporto online 24 ore su 24, pronto a risolvere qualsiasi tuo problema!"
+    }
+  ],
+  "cryptoExchange": "Scambio di criptovalute",
+  "shapingCrypto": "Modellare l'industria delle opzioni sulle criptovalute. Dal 2016.",
+  "shapingCryptoInfo": [
+    {
+      "title": "Per principianti",
+      "content": "Inizia le tue competenze di trading con il nostro corso gratuito sulle opzioni. Sperimenta sulla nostra piattaforma di test senza alcun rischio. Utilizza il nostro supporto 24/7 per qualsiasi domanda. Il tuo viaggio nei derivati inizia qui."
+    },
+    {
+      "title": "Trader esperti",
+      "content": "Immergiti nel nostro ambiente di trading di livello istituzionale. Usa gli strumenti più avanzati del settore nel mercato delle opzioni più liquido del mondo."
+    },
+    {
+      "title": "Per istituzioni",
+      "content": "Scopri perché le istituzioni più importanti hanno scelto StratTrade dal 2016. Servizi Colo in LD4, Modello di margine di portafoglio, Operazioni blocco, Combinazioni, la migliore liquidità, Multicast e altro ancora."
+    }
+  ],
+  "moreService": "Più servizi per aiutarti",
+  "moreServiceInfo": [
+    {
+      "title": "Strategie di trading",
+      "content": "Strategie di trading in tempo reale per aiutarti a comprendere le ultime tendenze del mercato e cogliere meglio il momento..."
+    },
+    {
+      "title": "Conoscenza del trading",
+      "content": "Impara a fare trading gratuitamente con StratTrade e migliora le tue competenze di trading."
+    },
+    {
+      "title": "Gestione del rischio",
+      "content": "Scopri gli strumenti di gestione del rischio gratuiti offerti da StratTrade per proteggere meglio i tuoi beni."
+    }
+  ],
+  "easy&ConvenientTitle": "Facile e conveniente aprire un conto",
+  "easy&ConvenientContent": "Tre semplici passaggi per aprire un conto in pochi minuti",
+  "easyStepsInfo": [
+    {
+      "title": "1. Registrazione",
+      "content": "Compila le informazioni e invia la tua candidatura"
+    },
+    {
+      "title": "2. Deposito",
+      "content": "Deposito veloce di fondi tramite vari metodi"
+    },
+    {
+      "title": "3. Inizio del trading",
+      "content": "Scopri le opportunità di trading e inserisci ordini rapidamente"
+    }
+  ]
+}

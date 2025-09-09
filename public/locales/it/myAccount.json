@@ -1,0 +1,45 @@
+{
+  "accountInfo": "Informazioni sull'account",
+  "asset": "I miei beni",
+  "security": "Sicurezza dell'account",
+  "wallet": "Portafoglio",
+  "withdraw": "Prelievo",
+  "transfer": "Trasferire",
+  "convert": "Convertire",
+  "balance": "Saldo stimato",
+  "accountInfoSection": {
+    "title": "Benvenuto su Crypto Trade",
+    "content": "Puoi iniziare a effettuare depositi e a fare trading in ambiente reale dopo aver completato la verifica della tua identità.",
+    "created": "creato",
+    "verified": "verificato",
+    "personalInfo": "Informazioni personali",
+    "accountNO": "N° di conto",
+    "baseCurrency": "Valuta di base",
+    "current": "Entità del servizio attuale"
+  },
+  "assetSection": {
+    "current": "Conto corrente",
+    "trading": "Conto di trading",
+    "fundFlow": "Dettagli del flusso di fondi",
+    "typology": "Tipologia",
+    "money": "Denaro",
+    "timing": "Tempistica"
+  },
+  "securitySection": {
+    "cryptographic": "Crittografico",
+    "withdraw": "Password di prelievo",
+    "safety": "Certificazione di sicurezza",
+    "configure": "Configurato"
+  },
+  "ask": "Chiedere",
+  "transferSection": {
+    "add": "Aggiungi Portafoglio"
+  },
+  "convertSection": {
+    "obey": "Obbedire"
+  },
+  "balanceSection": {
+    "close": "Chiudere con un fermo",
+    "equivalent": "Essere equivalente"
+  }
+}

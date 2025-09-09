@@ -1,0 +1,59 @@
+{
+  "accountInfo": "Account Information",
+  "asset": "My Assets",
+  "security": "Account Security",
+  "wallet": "Wallet",
+  "withdraw": "Withdraw",
+  "transfer": "Transfer",
+  "convert": "Convert",
+  "balance": "Estimated Balance",
+  "accountInfoSection": {
+    "title": "Welcome to Crypto Trade",
+    "content": "You can start making deposits and trading in the live environment upon completing your ID verification.",
+    "created": "created",
+    "verified": "verified",
+    "personalInfo": "Personal Information",
+    "accountNO": "Account No",
+    "baseCurrency": "Base Currency",
+    "current": "Current Service Entity"
+  },
+  "assetSection": {
+    "current": "Current Account",
+    "trading": "Trading Account",
+    "fundFlow": "Fund Flow Details",
+    "typology": "Typology",
+    "money": "Money",
+    "timing": "Timing"
+  },
+  "securitySection": {
+    "cryptographic": "CryptoGraphic",
+    "withdraw": "Withdraw Password",
+    "safety": "Safety Certification",
+    "configure": "Configured"
+  },
+  "ask": "Ask",
+  "transferSection": {
+    "add": "Add Wallet"
+  },
+  "convertSection": {
+    "obey": "Obey"
+  },
+  "balanceSection": {
+    "close": "Close with a latch",
+    "equivalent": "Be equivalent"
+  },
+  "idVerificationSteps": [
+    {
+      "title": "Complete Profile",
+      "content": "Complete your basic information"
+    },
+    {
+      "title": "Risk Assessment",
+      "content": "Assess your risk-bearing capacity"
+    },
+    {
+      "title": "Identity Verification",
+      "content": "Complete your ID verification in compliance with regulatory requirements"
+    }
+  ]
+}

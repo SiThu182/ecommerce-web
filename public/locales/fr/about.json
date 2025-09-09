@@ -1,0 +1,73 @@
+{
+  "mission": "Notre Mission",
+  "Vision": "Notre Vision",
+  "chooseList1": [
+    "Conditions de trading à faible seuil",
+    "Réglementé par les autorités de l'industrie"
+  ],
+  "chooseList2": [
+    "Plateforme de trading simple et intuitive",
+    "Niveau élevé de support en ligne"
+  ],
+  "chooseList3": [
+    "Coûts de transaction compétitifs",
+    "Protection contre les soldes négatifs"
+  ],
+  "clientFund": {
+    "title": "Sécurité financière",
+    "content": "StratTrade est autorisé et réglementé par des organismes de réglementation autoritaires. La conformité est au cœur de tout ce que nous faisons et de notre culture. La sécurité de vos fonds est primordiale et tous les dépôts des clients sont conservés dans des emplacements séparés."
+  },
+  "securityList": [
+    "Les dépôts des clients particuliers sont conservés séparément dans des comptes de fiducie comme requis par la réglementation.",
+    "CryptoTrade n'utilise pas les fonds des clients pour des activités commerciales autres que celles autorisées par les lois et règlements.",
+    "Ne spéculera pas sur aucun marché.",
+    "Audit indépendant par un cabinet comptable tiers."
+  ],
+  "award": {
+    "title": "Récompenses et honneurs",
+    "content1": "Dans notre quête d'excellence et notre dévouement à fournir à nos clients des services de trading de qualité, la marque StratTrade est honorée de recevoir une récompense d'une organisation prestigieuse du secteur, reconnaissant les efforts et l'engagement continus de l'équipe envers nos clients.",
+    "content2": "Créez un compte démo ou essayez immédiatement notre plateforme de trading en ligne primée !"
+  },
+  "fees": {
+    "title": "Frais et charges",
+    "content": "Dans le cadre de nos efforts pour améliorer l'expérience client, StratTrade souhaite offrir à ses clients un service de trading plus économique. Nous nous engageons à être ouverts et transparents sur nos frais et charges, sans frais cachés. Les principaux coûts de transaction pour nos clients sont l'écart achat/vente et les intérêts des positions de nuit."
+  },
+  "charges": {
+    "title": "Tout d'abord, lorsque vous tradez avec StratTrade, vous pouvez profiter de"
+  },
+  "chargesList": [
+    "Cotations de produits instantanées",
+    "Indicateurs techniques spécialisés",
+    "Analyse de marché exclusive"
+  ],
+  "foc": "Gratuit",
+  "fcList1": [
+    {
+      "title": "Écart achat/vente",
+      "content": "StratTrade facture un écart achat/vente comme compensation pour ses services. Ce frais est reflété dans la cotation du produit et vous payez effectivement l'écart lorsque vous ouvrez une position. Étant donné que les frais d'écart ne sont pas fixes, nous vous recommandons de consulter la page de cotation spécifique du produit ou de vous connecter à la plateforme de trading."
+    },
+    {
+      "title": "Frais de dépôt et de retrait",
+      "content": "Afin de minimiser les coûts pour nos clients, nous ne vous facturons pas pour accéder à vos fonds dans la plupart des cas. Cependant, une entreprise tierce ou une banque peut vous facturer des frais pour effectuer un dépôt ou un retrait, comme des frais de banque de transit. Vous pouvez demander des informations à nos spécialistes du service client. Par exemple, via des transactions par carte de crédit internationale, des transferts de compte bancaire ou des transactions dans des devises non prises en charge."
+    }
+  ],
+  "fcList2": [
+    {
+      "title": "Coûts des positions de nuit",
+      "content": "Si vous détenez encore une position à 22h00 GMT, des frais de nuit seront facturés/déposés. Les demandes concernant les frais de nuit pour chaque produit peuvent être effectuées sur la page de cotation spécifique du produit ou en vous connectant à la plateforme de trading."
+    },
+    {
+      "title": "Autres frais",
+      "content": "Aucun autre frais. Notre politique tarifaire est totalement transparente et tout élément nécessitant des frais sera annoncé et communiqué à l'avance, donc pas besoin de s'inquiéter des frais cachés."
+    }
+  ],
+  "help": {
+    "title": "Problèmes courants"
+  },
+  "problemList": [
+    "Les comptes démo sont pour la plupart identiques aux comptes réels en termes d'interface de trading, de données et d'opérations. Les comptes démo contiennent 50 000 $ en fonds virtuels et sont conçus pour permettre aux clients de se familiariser avec les fonctionnalités de la plateforme sans risquer leurs fonds.",
+    "Cliquez sur 'Trade' pour afficher tous les produits disponibles sur la plateforme, entrez le code ou le nom du produit dans la boîte de recherche à droite, sélectionnez un produit et cliquez sur 'SELL/BUY' pour ouvrir la fenêtre de trading. Ajustez manuellement le nombre de transactions à ouvrir, définissez un stop loss et un take profit pour le contrôle des risques, puis cliquez sur 'SELL/BUY' pour ouvrir la position.",
+    "Tout d'abord, vérifiez si la connexion Internet est normale. Lorsque les marchés sont temporairement fermés, cela peut empêcher les ordres. Pour plus de détails, contactez notre service client en ligne.",
+    "1. Accédez à la page d'inscription StratTrade et suivez les instructions : enregistrez votre e-mail/numéro de téléphone, définissez votre mot de passe de connexion et soumettez la confirmation pour créer automatiquement un compte démo.\n 2. Sur la page du compte démo, sélectionnez 'Passer au compte réel' et suivez la procédure pour ouvrir un compte réel.\n Avant d'ouvrir un compte réel, nous vous recommandons de lire et de comprendre les divulgations légales associées au trading."
+  ]
+}

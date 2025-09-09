@@ -1,0 +1,37 @@
+{
+  "forex": "Foreign exchange trading",
+  "forexContennt": "Forex trading is the conversion of one currency into another, and the foreign exchange market is the most heavily traded financial market in the world. The foreign exchange market has a large number of participants who trade through it to make payments, hedge against the risk of currency movements, or to make a profit. Forex trading takes place through a network of banks, institutions and individual traders around the globe, with price fluctuations 24 hours a day, 5 days a week, providing opportunities for risk-reward.",
+  "commodities": "Commodities",
+  "commoditiesContent": "Commodities such as precious metals and energy are considered to be an important part of diversified investment as they are considered to be both inflation-proof and have the opportunity to add value to the investment. Among them, gold, silver and oil are commodities traded in huge volumes, and their open and transparent prices as well as high liquidity have been widely welcomed by investors. Commodity prices fluctuate significantly due to factors such as supply and demand, economic and policy situations, and currencies, providing opportunities for risk-return.",
+  "crypto": "Cryptocurrencies",
+  "cryptoContent": "Cryptocurrencies are a digital currency created through code. They operate autonomously outside of traditional banking and government systems. As the name suggests, cryptocurrencies use encryption to secure transactions and provide for the creation of other units, with Bitcoin being the original and by far the most famous cryptocurrency, Bitcoin was created by Satoshi Nakamoto and launched in January 2009. Even today, it remains unknown whether the name Satoshi Nakamoto refers to a person or a group of people. Bitcoin is considered to be the first decentralized cryptocurrency. Like all cryptocurrencies, it is controlled through a blockchain transaction database that serves as a distributed public ledger. To date, more than 1,000 cryptocurrencies are traded online.",
+  "choose1": [
+    {
+      "title": "Simple and intuitive platform",
+      "content": "Integration of quotes, trading, account management, information, risk management, powerful functions, to achieve a better user experience"
+    },
+    {
+      "title": "Competitive transaction costs",
+      "content": "0 trading commissions, very competitive and transparent low spreads, low SWAPs, so you can enjoy low-cost trading!"
+    },
+    {
+      "title": "Low-threshold trading conditions",
+      "content": "The minimum lot size for each transaction is as low as 0.01 lot, and you can open a position with a low margin."
+    }
+  ],
+  "choose2": [
+    {
+      "title": "Regulated by authority",
+      "content": "Authorized and regulated by industry authorities, all clients' deposits are stored separately and segregated to protect the safety of clients' assets"
+    },
+    {
+      "title": "Negative balance protection",
+      "content": "Your account will never lose more than its principal under any market condition, and negative balances will be cleared in a timely manner to enhance your risk management ability."
+    },
+    {
+      "title": "High level of online support",
+      "content": "Provide fast response online customer service, will provide better service through the unremitting efforts of the professional team"
+    }
+  ],
+  "whyChooseUs": "Why Choose Us?"
+}

@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "composite": true,
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+    //...existing configs
+  }
+}

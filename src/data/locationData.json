@@ -1,0 +1,60 @@
+{
+  "thailand": {
+    "dial_code": "+66",
+    "provinces": {
+      "Bangkok": {
+        "districts": {
+          "Bang Khen": {
+            "sub-districts": ["Anusawari", "Tha Raeng"],
+            "postal-code": ["10220", "10230"]
+          },
+          "Chatuchak": {
+            "sub-districts": ["Lat Yao", "Chan Kasem", "Chatuchak"],
+            "postal-code": ["10900", "10901"]
+          }
+        }
+      },
+      "Chiang Mai": {
+        "districts": {
+          "Mueang Chiang Mai": {
+            "sub-districts": ["Chang Moi", "Si Phum", "Phra Singh"],
+            "postal-code": ["50200", "50201"]
+          },
+          "Hang Dong": {
+            "sub-districts": ["Nam Phrae", "Ban Waen", "Ban Pong"],
+            "postal-code": ["50230", "50240"]
+          }
+        }
+      }
+    }
+  },
+  "australia": {
+    "dial_code": "+61",
+    "provinces": {
+      "New South Wales": {
+        "districts": {
+          "Sydney": {
+            "sub-districts": ["Central Business District", "Bondi Beach"],
+            "postal-code": ["2000", "2026"]
+          },
+          "Newcastle": {
+            "sub-districts": ["Hamilton", "Merewether"],
+            "postal-code": ["2303", "2291"]
+          }
+        }
+      },
+      "Victoria": {
+        "districts": {
+          "Melbourne": {
+            "sub-districts": ["Docklands", "Southbank"],
+            "postal-code": ["3008", "3006"]
+          },
+          "Geelong": {
+            "sub-districts": ["Belmont", "Highton"],
+            "postal-code": ["3216", "3216"]
+          }
+        }
+      }
+    }
+  }
+}

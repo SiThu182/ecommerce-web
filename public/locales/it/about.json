@@ -1,0 +1,73 @@
+{
+  "mission": "La nostra Missione",
+  "Vision": "La nostra Visione",
+  "chooseList1": [
+    "Condizioni di trading a bassa soglia",
+    "Regolato dalle autorità del settore"
+  ],
+  "chooseList2": [
+    "Piattaforma di trading semplice e intuitiva",
+    "Alto livello di supporto online"
+  ],
+  "chooseList3": [
+    "Costi di transazione competitivi",
+    "Protezione dal saldo negativo"
+  ],
+  "clientFund": {
+    "title": "Sicurezza finanziaria",
+    "content": "StratTrade è autorizzata e regolata da enti normativi autorevoli. La conformità è al centro di tutto ciò che facciamo e della nostra cultura. La sicurezza dei tuoi fondi è fondamentale e tutti i depositi dei clienti sono conservati in posizioni separate."
+  },
+  "securityList": [
+    "I depositi dei clienti al dettaglio sono conservati separatamente in conti fiduciari come richiesto dalle normative.",
+    "CryptoTrade non utilizza i fondi dei clienti per attività commerciali diverse da quelle consentite da leggi e regolamenti.",
+    "Non speculerà in alcun mercato.",
+    "Audit indipendente da parte di una società di revisione contabile di terze parti."
+  ],
+  "award": {
+    "title": "Premi e riconoscimenti",
+    "content1": "Nella nostra ricerca dell'eccellenza e dedizione a fornire ai nostri clienti servizi di trading di qualità, il marchio StratTrade è onorato di ricevere un premio da un'organizzazione prestigiosa del settore, che riconosce gli sforzi e l'impegno continui del team verso i nostri clienti.",
+    "content2": "Crea un account demo o prova immediatamente la nostra premiata piattaforma di trading online!"
+  },
+  "fees": {
+    "title": "Commissioni e costi",
+    "content": "Come parte dei nostri sforzi per migliorare l'esperienza del cliente, StratTrade vuole offrire ai propri clienti un servizio di trading più conveniente. Ci impegniamo a essere aperti e trasparenti sulle nostre commissioni e costi, senza costi nascosti. I principali costi di transazione per i nostri clienti sono lo spread bid/ask e gli interessi delle posizioni overnight."
+  },
+  "charges": {
+    "title": "Innanzitutto, quando fai trading con StratTrade puoi beneficiare di"
+  },
+  "chargesList": [
+    "Quotazioni di prodotto istantanee",
+    "Indicatori tecnici specializzati",
+    "Analisi di mercato esclusiva"
+  ],
+  "foc": "Gratuito",
+  "fcList1": [
+    {
+      "title": "Spread bid/ask",
+      "content": "StratTrade addebita uno spread bid/ask come compenso per i suoi servizi. Questo costo è riflesso nella quotazione del prodotto e paghi effettivamente lo spread quando apri una posizione. Poiché il costo dello spread non è fisso, ti consigliamo di visitare la pagina delle quotazioni specifiche del prodotto o di accedere alla piattaforma di trading."
+    },
+    {
+      "title": "Commissioni di deposito e prelievo",
+      "content": "Per minimizzare i costi per i nostri clienti, nella maggior parte dei casi non addebitiamo nulla per accedere ai tuoi fondi. Tuttavia, una società terza o una banca potrebbe addebitarti una commissione per effettuare un deposito o un prelievo, come una commissione bancaria di transito. Puoi richiedere informazioni ai nostri specialisti del servizio clienti. Ad esempio, tramite transazioni con carta di credito internazionale, trasferimenti in/out da conto bancario o transazioni in valute non supportate."
+    }
+  ],
+  "fcList2": [
+    {
+      "title": "Costi delle posizioni overnight",
+      "content": "Se mantieni una posizione alle 22:00 GMT, verrà addebitata/accreditata una commissione overnight. Puoi verificare i costi overnight per ciascun prodotto sulla pagina delle quotazioni specifiche del prodotto o accedendo alla piattaforma di trading."
+    },
+    {
+      "title": "Altri costi",
+      "content": "Nessun altro costo. La nostra politica sui costi è completamente trasparente e qualsiasi elemento che richieda un costo sarà annunciato e comunicato in anticipo, quindi non è necessario preoccuparsi di costi nascosti."
+    }
+  ],
+  "help": {
+    "title": "Problemi comuni"
+  },
+  "problemList": [
+    "Gli account demo sono per lo più identici agli account reali in termini di interfaccia di trading, dati e operazioni. Gli account demo contengono 50.000 $ in fondi virtuali e sono progettati per consentire ai clienti di familiarizzare con le funzionalità della piattaforma senza rischiare i loro fondi.",
+    "Fai clic su 'Trade' per visualizzare tutti i prodotti disponibili sulla piattaforma, inserisci il codice o il nome del prodotto nella casella di ricerca a destra, seleziona un prodotto e fai clic su 'SELL/BUY' per aprire la finestra di trading. Regola manualmente il numero di transazioni da aprire, imposta uno stop loss e un take profit per il controllo del rischio, quindi fai clic su 'SELL/BUY' per aprire la posizione.",
+    "Innanzitutto, verifica se la connessione Internet è normale. Quando i mercati sono temporaneamente chiusi, potrebbe non essere possibile effettuare ordini. Per ulteriori dettagli, contatta il nostro servizio clienti online.",
+    "1. Accedi alla pagina di registrazione di StratTrade e segui le istruzioni: registra la tua email/numero di telefono, imposta la tua password di accesso e invia la conferma per creare automaticamente un account demo.\n 2. Nella pagina dell'account demo, seleziona 'Passa a un account reale' e segui la procedura per aprire un account reale.\n Prima di aprire un account reale, ti consigliamo di leggere e comprendere le informative legali associate al trading."
+  ]
+}

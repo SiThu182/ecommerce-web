@@ -1,0 +1,74 @@
+{
+  "mission": "Our Mission",
+  "Vision": "Our Vision",
+  "chooseList1": [
+    "Low-threshold trading conditions",
+    "Regulated by industry authorities"
+  ],
+  "chooseList2": [
+    "Simple and intuitive trading platform",
+    "High level of online support"
+  ],
+  "chooseList3": [
+    "Competitive transaction costs",
+    "Negative balance protection"
+  ],
+  "clientFund": {
+    "title": "Financial security",
+    "content": "StratTrade is authorized and regulated by authoritative regulatory bodies. Compliance is at the heart of everything we do and our culture. The safety of your funds is paramount and all client deposits are kept in segregated locations."
+  },
+  "securityList": [
+    "Retail customer deposits are held separately in trust accounts as necessary in accordance with regulatory requirements",
+    "CryptoTrade does not use client funds for any commercial activities other than those permitted by laws and regulations.",
+    "Will not speculate in any marketplace",
+    "Independent audit by a third-party accounting firm"
+  ],
+  "award": {
+    "title": "Awards and Honors",
+    "content1": "In our quest for excellence and dedication to providing our clients with quality trading services, the StratTrade brand is honored to receive an award from a prestigious organization in the industry, recognizing the team's continuous efforts and commitment to our clients.",
+    "content2": "Create a demo account，Or experience our award-winning online trading platform immediately!"
+  },
+  "fees": {
+    "title": "Fees & Charges",
+    "content": "As part of our efforts to enhance the customer experience, StratTrade wants to provide our customers with a more cost-effective trading service. We are committed to being open and transparent about our fees and charges, with no hidden fees. The main transaction costs for our clients are the bid/ask spread and overnight position interest."
+  },
+  "charges": {
+    "title": "First of all, when you trade with StratTrade you can enjoy"
+  },
+  "chargesList": [
+    "Instant Product Quote",
+    "Specialized technical indicators",
+    "Exclusive Market Analysis"
+  ],
+  "foc": "Free of Charge",
+  "fcList1": [
+    {
+      "title": "Bid-ask spread",
+      "content": "StratTrade charges a bid/ask spread as compensation for its services. This fee is reflected in the product quote and you actually pay the spread when you open a position. Since the spread fee is not fixed, we recommend that you go to the specific product quote page, or log in to theTrading platformLook up。"
+    },
+    {
+      "title": "Deposit and Withdrawal Charges",
+      "content": "In order to minimize costs for our customers, we do not charge you for accessing your funds in most cases. However, a third party company or bank may charge you a fee for making a deposit or withdrawal, such as a transit bank fee. You can ask our customer service specialists for information about the charges that need to be made.E.g. through international credit card transactions, bank account transfers in/out or transactions in unsupported currencies (Forex conversion), etc."
+    }
+  ],
+  "fcList2": [
+    {
+      "title": "Overnight position costs",
+      "content": "If you are still holding a position at 10pm GMT (22:00 GMT), you will be charged/deposited an overnight fee. Inquiries regarding overnight charges for each product can be made on the specific product quote page, or by logging on to theTrading platformLook up。"
+    },
+    {
+      "title": "Other expenses",
+      "content": "No other fees. Our fee policy is completely transparent and any items that require a fee will be announced and communicated in advance, so there is no need to worry about hidden fees."
+    }
+  ],
+
+  "help": {
+    "title": "Common Problems"
+  },
+  "problemList": [
+    "Demo accounts are mostly the same as real accounts in terms of trading interface, data, and operations. Demo accounts contain $50,000 in virtual funds, and are designed to allow clients to familiarize themselves with the platform's features through simulated operations without risking their funds.",
+    "Click on 'Trade' (Trade) will display all the products available for trading on the platform, you can enter the code or name of the product in the input box on the right to search for it, select a product and click on 'SELL/BUY' (SELL/BUY) to bring up the trading window, in which you can see the current price and the estimated margin required. You can manually adjust the number of trades to be opened, set a stop loss and take profit for risk control, and then click on 'SELL/BUY' to complete the opening of the position. Please note that the prices of all financial products fluctuate and update with the market at any time, and the market may have changed before you press the BUY/SELL button",
+    "First of all, please check whether the Internet connection is normal. When trading varieties of markets temporarily closed quotes or closed markets can cause the inability to place orders. For details, please contact our online customer service for further assistance.",
+    "1.Enter the StratTrade registration page and follow the instructions: register your email/mobile phone number, set your login password and submit the confirmation to automatically create a [Demo Account] \n 2.On the Demo Account page, select 'Switch to Real Account' and follow the procedure to open a 'Real Account'. \n Before you open a live account, we recommend that you read and understand the legal disclosures associated with trading.Please note that you can only deposit to your live account after completing the identity verification."
+  ]
+}

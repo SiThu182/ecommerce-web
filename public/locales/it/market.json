@@ -1,0 +1,37 @@
+{
+  "forex": "Trading di valute estere",
+  "forexContennt": "Il trading di valute estere è la conversione di una valuta in un'altra, e il mercato dei cambi è il mercato finanziario più scambiato al mondo. Il mercato dei cambi ha un gran numero di partecipanti che lo utilizzano per effettuare pagamenti, coprirsi contro il rischio di movimenti valutari o per ottenere un profitto. Il trading Forex avviene attraverso una rete di banche, istituzioni e trader individuali in tutto il mondo, con fluttuazioni di prezzo 24 ore su 24, 5 giorni alla settimana, offrendo opportunità di rischio-rendimento.",
+  "commodities": "Materie prime",
+  "commoditiesContent": "Le materie prime, come i metalli preziosi e l'energia, sono considerate una parte importante di un investimento diversificato, poiché sono ritenute a prova di inflazione e offrono l'opportunità di aggiungere valore all'investimento. Tra queste, oro, argento e petrolio sono materie prime scambiate in grandi volumi, e i loro prezzi aperti e trasparenti, oltre alla loro alta liquidità, sono stati ampiamente accolti dagli investitori. I prezzi delle materie prime fluttuano significativamente a causa di fattori come domanda e offerta, situazioni economiche e politiche e valute, offrendo opportunità di rischio-rendimento.",
+  "crypto": "Criptovalute",
+  "cryptoContent": "Le criptovalute sono una valuta digitale creata attraverso il codice. Operano autonomamente al di fuori dei sistemi bancari e governativi tradizionali. Come suggerisce il nome, le criptovalute utilizzano la crittografia per proteggere le transazioni e consentire la creazione di altre unità, con Bitcoin che è la criptovaluta originale e di gran lunga la più famosa. Bitcoin è stato creato da Satoshi Nakamoto e lanciato nel gennaio 2009. Ancora oggi, non si sa se il nome Satoshi Nakamoto si riferisca a una persona o a un gruppo di persone. Bitcoin è considerato la prima criptovaluta decentralizzata. Come tutte le criptovalute, è controllato tramite un database di transazioni blockchain che funge da registro pubblico distribuito. Ad oggi, più di 1.000 criptovalute vengono scambiate online.",
+  "choose1": [
+    {
+      "title": "Piattaforma semplice e intuitiva",
+      "content": "Integrazione di quotazioni, trading, gestione degli account, informazioni, gestione del rischio, funzioni potenti per ottenere una migliore esperienza utente"
+    },
+    {
+      "title": "Costi di transazione competitivi",
+      "content": "0 commissioni di trading, spread bassi molto competitivi e trasparenti, SWAP bassi, così puoi goderti un trading a basso costo!"
+    },
+    {
+      "title": "Condizioni di trading a bassa soglia",
+      "content": "La dimensione minima di ogni transazione è di appena 0,01 lotti e puoi aprire una posizione con un margine ridotto."
+    }
+  ],
+  "choose2": [
+    {
+      "title": "Regolamentato dalle autorità",
+      "content": "Autorizzato e regolamentato dalle autorità del settore, i depositi di tutti i clienti sono conservati separatamente per proteggere la sicurezza dei loro beni."
+    },
+    {
+      "title": "Protezione del saldo negativo",
+      "content": "Il tuo account non perderà mai più del suo capitale in nessuna condizione di mercato, e i saldi negativi saranno eliminati tempestivamente per migliorare la tua capacità di gestione del rischio."
+    },
+    {
+      "title": "Alto livello di supporto online",
+      "content": "Fornisce un servizio clienti online a risposta rapida, offrendo un servizio migliore grazie agli sforzi incessanti del team professionale."
+    }
+  ],
+  "whyChooseUs": "Perché scegliere noi?"
+}

@@ -1,0 +1,89 @@
+{
+  "bannerTitle": "Data to ",
+  "inside": "inside",
+  "seconds": " in seconds",
+  "started": "Get Started",
+  "bannerContent": "Discover the power of seamless crypto trading with real-time insights and secure transactions. Start building your future today",
+  "introTitle": "Trade Forex, Commodities, Indices, Shares and More",
+  "introContent": "You can explore the world's hottest financial markets. StratTrade offers 0 commissions, extremely advantageous low spreads, and flexible leverage configurations.",
+  "friendlyTitle": "Friendlier Transaction",
+  "friendlyContent": [
+    "Simple and intuitive interface for easy operation",
+    "Support trading at your fingertips",
+    "Risk management tools such as stop loss/trailing stop",
+    "Multiple technical charts and financial calendars, real-time news",
+    "Continuous improvement for a better trading experience"
+  ],
+  "tradeFreeTitle": "Trade freely anytime, anywhere",
+  "tradeFreeContent": "Support trading at your fingertips",
+  "trustedTitle": "Trusted International Platform",
+  "trustedContent": "We are committed to providing a safe and responsible trading environment for our customers.",
+  "trustedInfoOne": [
+    {
+      "title": "Regulated by an authoritative body",
+      "content": "Industry authority regulation and authorization, win the trust of global customers"
+    },
+    {
+      "title": "Protecting the security of funds",
+      "content": "Retail customer deposits are segregated in trust accounts on an as-needed basis in accordance with regulatory requirements"
+    }
+  ],
+  "trustedInfoTwo": [
+    {
+      "title": "Negative balance protection",
+      "content": "Provide you with account negative balance protection, negative balance in a timely manner to clear the zero, so that your loss does not exceed the amount of entry, peace of mind trading"
+    },
+    {
+      "title": "5*24 hours customer service",
+      "content": "Sincere and professional customer service team, 24 hours online support, happy to solve any problem you have!"
+    }
+  ],
+
+  "cryptoExchange": "Cypto trade exchange",
+  "shapingCrypto": "Shaping the Crypto Options Industry. Since 2016.",
+  "shapingCryptoInfo": [
+    {
+      "title": "For Beginners",
+      "content": "Kick-start your trading skills with our free options course. Experiment on our Test Platform without any risk. Make use of our 24/7 Support for any questions. Your derivatives journey starts here."
+    },
+    {
+      "title": "Experienced Traders",
+      "content": "Immerse yourself in our institutional-grade trading environment. Use the most advanced tools in the industry at the most liquid options market in the world."
+    },
+    {
+      "title": "For Institutions",
+      "content": "Experience why the most prominent institutions have preferred StratTrade since 2016. Colo Services in LD4, Portfolio Margin Model, Block Trades, Combos, the best liquidity, Multicast, and more"
+    }
+  ],
+  "moreService": "More services to help you",
+  "moreServiceInfo": [
+    {
+      "title": "Trading Strategies",
+      "content": "Real-time trading strategies to help you understand the latest market trends, better grasp the timing of..."
+    },
+    {
+      "title": "Trading Knowledge",
+      "content": "Learn to trade for free with StratTrade and improve your trading skills."
+    },
+    {
+      "title": "Risk management",
+      "content": "Learn about the free risk management tools StratTrade offers to better protect your assets."
+    }
+  ],
+  "easy&ConvenientTitle": "Easy and convenient to open an account",
+  "easy&ConvenientContent": "three simple steps to open an account in minutes",
+  "easyStepsInfo": [
+    {
+      "title": "1. Enrollment",
+      "content": "Fill out the information and submit your application"
+    },
+    {
+      "title": "2. Deposit",
+      "content": "Fast deposit of funds through a variety of methods"
+    },
+    {
+      "title": "3. Commencement of trading",
+      "content": "Discover trading opportunities and place orders quickly"
+    }
+  ]
+}
